@@ -482,19 +482,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\WorkspaceRider\\manu2\\ManUtdDashboard\\ManUtdDashboard.csproj",
+      "projectUniqueName": "/home/ec2-user/manUNews/ManchesterUnitedNews/ManUtdDashboard.csproj",
       "projectName": "ManUtdDashboard",
-      "projectPath": "C:\\Users\\User\\WorkspaceRider\\manu2\\ManUtdDashboard\\ManUtdDashboard.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\WorkspaceRider\\manu2\\ManUtdDashboard\\obj\\",
+      "projectPath": "/home/ec2-user/manUNews/ManchesterUnitedNews/ManUtdDashboard.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/ec2-user/manUNews/ManchesterUnitedNews/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -512,11 +512,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -551,7 +546,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
